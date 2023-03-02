@@ -16,7 +16,7 @@ O desafio foi a criação de um dashboard de vendas onde na Página inicial, é 
 
 Quer conferir como ficou o bording pass? 
 
-[Visite o projeto online]()
+[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio08_Dashboard/)
 
 <br>
 
