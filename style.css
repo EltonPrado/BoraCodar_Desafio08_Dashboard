@@ -51,6 +51,13 @@ body {
   line-height: 160%;
 
   gap: 3.2rem;
+
+  cursor: pointer;
+  transition: all .5s ease-in-out;
+}
+
+.box:hover {
+  opacity: .5;
 }
 
 .top {
