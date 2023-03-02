@@ -6,7 +6,7 @@
 
 O projeto Dashboard foi desenvolvido durante os desafios do #BoraCodar da Rocketseat. O #boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. 
 
-O desafio foi a criação de um dashboard de vendas onde na Página inicial, é mostrado os indicadores em cada card, especificando a métrica e seu resultado em um gráfico ou ícone.. <br>
+O desafio foi a criação de um dashboard de vendas onde na Página inicial, é mostrado os indicadores em cada card, especificando a métrica e seu resultado em um gráfico. <br>
 
 <p align="center">
   <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
@@ -16,7 +16,7 @@ O desafio foi a criação de um dashboard de vendas onde na Página inicial, é 
 
 Quer conferir como ficou o bording pass? 
 
-[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio06_BordingPass/)
+[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio08_Dashboard/)
 
 <br>
 
